@@ -8,6 +8,15 @@ This repository contains a deep learning pipeline to detect and quantify changes
 - Computes lake area change (in sq.km)
 - Visualizes expansion or shrinkage using a color-coded change map
 
+## 📂 Dataset
+
+The dataset used in this project consists of glacial lake satellite images and corresponding segmentation masks.
+
+📥 [Download Dataset from Google Drive](https://drive.google.com/file/d/XXXXXXXX/view?usp=sharing)
+
+After downloading, extract the `.zip` file into the root folder or `data/` directory before running the notebook.
+
+
 ## Project Files
 
 - `Glacial_Lake_Change_UNet.ipynb`: Full working Colab notebook
